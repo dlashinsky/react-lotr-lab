@@ -69,7 +69,7 @@ properties. Display information for the complete trilogy! (If you don't know eve
 
 title | hours | minutes
 ------|-------|--------
-The Fellowship of the Ring | 2 | 28
+The Fellowship of the Ring | 2 | 58
 The Two Towers | 2 | 59
 The Return of the King | 3 | 21
 
